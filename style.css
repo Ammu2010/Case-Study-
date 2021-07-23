@@ -1,0 +1,38 @@
+#photo {
+    width: 450px;
+}
+#span {
+    width: 500px;
+    height: 250px;
+    background-color: rgb(149, 143, 143);
+    padding: 20px;
+    border-radius: 15px;
+}
+#div {
+    width: 75%;
+    height: 300px;
+    background-color: rgb(149, 143, 143);
+    padding: 20px;
+    border-radius: 15px;   
+}
+#phot {
+    width: 300px;
+    float: left;
+    box-shadow: cornsilk;
+}
+label {
+    background-color: whitesmoke;
+    border-radius: 20px;
+    font-size: 20px;
+    padding: 10px;
+    width: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 100px;
+}
+#divi {
+    width: 75%;
+    height: 225px;
+    background-color: rgb(149, 143, 143);
+    padding: 20px;
+    border-radius: 15px;   
+}
